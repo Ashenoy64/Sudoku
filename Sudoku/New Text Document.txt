@@ -1,0 +1,2 @@
+Multiplle game create bug:
+assigning of text to button if zero if self.sol not the button
